@@ -1,7 +1,7 @@
-import Message from "./message"
+import ListView from './message'
 
 function App(){
-  return <div><Message></Message></div>;
+  return <div><ListView></ListView></div>;
 }
 
 export default App;
